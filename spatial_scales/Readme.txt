@@ -50,3 +50,4 @@ and comparison of activations to a lexical control condition.
 - create_sdm_with_other_factors.m - helper function to create design matrices with the parametrically modulated conditions according to 
 the different contributing factors, used inside the previous script.
 
+### This code is associated with the paper from Peer et al., "Processing of different spatial scales in the human brain". eLife, 2019. http://dx.doi.org/10.7554/eLife.47492
